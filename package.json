@@ -9,5 +9,10 @@
     "dayjs": "^1.11.6",
     "hexo-front-matter": "^4.0.0",
     "hexo-fs": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KiritoKing/hexo-auto-front.git"
+  },
+  "homepage": "https://github.com/KiritoKing/hexo-auto-front"
 }
