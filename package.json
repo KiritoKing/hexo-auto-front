@@ -1,0 +1,13 @@
+{
+  "name": "hexo-auto-front",
+  "version": "1.0.2",
+  "description": "Automatically read front-matter info from file name",
+  "main": "index.js",
+  "author": "ChlorineC",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.6",
+    "hexo-front-matter": "^4.0.0",
+    "hexo-fs": "^4.1.1"
+  }
+}
